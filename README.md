@@ -18,11 +18,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdulsamet-kaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulsamet-kaya" height="30" width="40" /></a>
-<br>
 <a href="https://medium.com/@aasametkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aasametkaya" height="30" width="40" /></a>
 </p>
 
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulsametkaya&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="abdulsametkaya" /></p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsametkaya&" alt="abdulsametkaya" /></p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulsamet Kaya</h1>
-<h3 align="center">A Passionate Full Stack Developer from Turkey</h3>
+<h3 align="center">A Passionate Full Stack Java Developer from Turkey</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on [Greater Roads](https://github.com/abdulsametkaya/Car-Rental-Frontend)<br><br>- 🌱 I’m currently learning **React, Spring Framework**<br><br>- 📝 I regularly write articles on [https://medium.com/@aasametkaya](https://medium.com/@aasametkaya)<br><br>- 💬 Ask me about **Java, Javascript, Spring Framework, React**<br><br>- 📫 How to reach me **aasametkaya@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/drive/folders/1mylp3IBqnGjFMJx_DZiG-ai4CXMFZA13?usp=sharing](https://drive.google.com/drive/folders/1mylp3IBqnGjFMJx_DZiG-ai4CXMFZA13?usp=sharing)
@@ -17,9 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=abdulsametkaya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-

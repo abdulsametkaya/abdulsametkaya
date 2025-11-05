@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Java Developer from Turkey</h3>
 
 # 💫 About Me:
-- 📝 I regularly write articles on [https://medium.com/@aasametkaya](https://medium.com/@aasametkaya)<br><br>- 💬 Ask me about **Java, Javascript, Spring Framework, React**<br><br>- 📫 How to reach me **aasametkaya@gmail.com**<br><br>-
+- 📝 I regularly write articles on [https://medium.com/@aasametkaya](https://medium.com/@aasametkaya)<br><br>- 💬 Ask me about **Java, Javascript, Spring Framework, React**<br><br>- 📫 How to reach me **aasametkaya@gmail.com**<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamet-kaya/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aasametkaya) 
